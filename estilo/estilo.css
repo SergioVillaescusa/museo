@@ -1,0 +1,29 @@
+body{background-image: url(../imagenes/background.jpg)
+   ;
+}
+                
+    h1{
+        color: firebrick;font-family:sans-serif;
+
+}
+                
+    h2{
+        color: firebrick;
+        font-family:sans-serif;font-size:18pt;
+}
+    h3{
+        font-family: sans-serif; font-size:13pt; 
+    
+}
+    a{
+        color:firebrick; font-family:  sans-serif; 
+}
+    img {
+        height: 500px;
+        border:14px solid firebrick;
+        width: 100%;
+}
+    p{
+        background-color: antiquewhite;font-family: sans-serif;font-size: 12ptx;
+        
+}
